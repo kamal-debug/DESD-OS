@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-
+//main
 int main(int argc, char const *argv[])
 {
     printf("Addition:%d\n",add(20,20));
