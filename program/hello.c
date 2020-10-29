@@ -5,7 +5,7 @@ int add(int a,int b)
 {
     return a+b;
 }
-
+//main
 int main(int argc, char const *argv[])
 {
     printf("Welcome to Your 1st Program Kamal\n");
